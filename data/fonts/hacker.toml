@@ -1,0 +1,13 @@
+# Font style metadata
+name = "TechMono"
+
+# Optional Google font URL
+#google_fonts = "family=Share+Tech+Mono"
+google_fonts = "family=Inconsolata:wght@500&family=Playfair+Display+SC&family=Rhodium+Libre&family=Pragati+Narrow&family=Ubuntu+Mono"
+
+# Font families
+# heading_font = "Playfair Display SC"
+heading_font = "Ubuntu Mono"
+body_font = "Ubuntu Mono"
+nav_font = "Inconsolata"
+mono_font = "Pragati Narrow"

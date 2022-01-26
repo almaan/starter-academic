@@ -1,4 +1,4 @@
 [submodule "public"]
 	path = public
-	url = https://github.com/almaan/almaan.github.io.git
+	url = git@github.com:almaan/almaan.github.io.git
 	branch = master

@@ -5,27 +5,27 @@ title: "Publication | Spatial Single Cell Mapping"
 subtitle: ""
 summary: ""
 authors: [admin]
-tags: []
+tags: ["publications","single cell mapping","stereoscope"]
 categories: []
 date: 2020-10-09T11:05:04+01:00
 lastmod: 2020-10-09T11:05:04+01:00
-featured: false 
+featured: true
 draft: false
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder.
 # Focal points: Smart, Center, TopLeft, Top, TopRight, Left, Right, BottomLeft, Bottom, BottomRight.
 image:
-  caption: ""
-  focal_point: ""
-  preview_only: false
+  caption: "Method Overview"
+  focal_point: "Center"
+  preview_only: ""
 
 # Projects (optional).
 #   Associate this post with one or more of your projects.
 #   Simply enter your project's folder or file name without extension.
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
-projects: []
+projects: ["stereoscope"]
 ---
 
 Delighted to say that our manuscript "_Single-cell and spatial transcriptomics
@@ -40,8 +40,8 @@ binomial distribution (which we use) found in the supplementary (spoiler, it
 seems like it). Have a look at it if you are interested!
 
 
- - Manuscript Link : [HERE](https://www.nature.com/articles/s42003-020-01247-y)
- - stereoscope Link : [HERE](https://github.com/almaan/stereoscope)
+ - manuscript link : [HERE](https://www.nature.com/articles/s42003-020-01247-y)
+ - stereoscope link : [HERE](https://github.com/almaan/stereoscope)
 
 P.S: I'm also planning to update the code base in the future, providing an API for
 `scanpy`, but also add some features like subsampling and gene selection to the

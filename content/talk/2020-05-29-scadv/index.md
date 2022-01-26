@@ -1,8 +1,8 @@
 ---
 # Documentation: https://wowchemy.com/docs/managing-content/
 
-title: "Exploring the cell type topography by integration of spatial and single cell data"
-event: "10x Genomics Virtual User Group Meeting | Italy"
+title: "Computational Analysis of Spatial Transcriptomics Data"
+event: "Advanced topics in single-cell transcriptomics"
 event_url: "https://hopin.com/events/10x-genomics-virtual-user-group-meeting-italy"
 location: "Online"
 address:
@@ -16,12 +16,12 @@ abstract:
 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
-date: 2020-11-20T15:55:00+01:00
-date_end: 2020-11-20T16:25:00+01:00
+date: 2020-05-27T108:00:00+01:00
+date_end: 2020-05-29T17:00:00+01:00
 all_day: false
 
 # Schedule page publish date (NOT talk date).
-publishDate: 2020-11-20T16:25:00+01:00
+publishDate: 2020-05-29T17:00:00+01:00
 
 authors: []
 tags: []
@@ -46,9 +46,9 @@ image:
 #   icon: twitter
 
 # Optional filename of your slides within your talk's folder or a URL.
-url_slides:
+url_slides: "https://github.com/fmicompbio/adv_scrnaseq_2020/raw/master/spatial/slides/adv-sv-20200528.pdf"
 
-url_code:
+url_code: "https://github.com/fmicompbio/adv_scrnaseq_2020/tree/master/spatial"
 url_pdf:
 url_video:
 

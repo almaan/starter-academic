@@ -1,12 +1,12 @@
 ---
 # Display name
-title: Alma Anderson
+title: Alma Andersson
 
 # Is this the primary user of the site?
 superuser: true
 
 # Role/position
-role: PhD. Student Computational Biology
+role: Computational Biologist
 
 # Organizations/Affiliations
 organizations:
@@ -18,9 +18,10 @@ bio: My passion lies in understanding and modelling the latent structures that g
 
 interests:
 - Probabilistic Modeling
-- Evolutionary Algorithms
-- Machine Learning
+- Causal Inference
+- Programming
 - Running
+- Cross country skiing
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
@@ -29,13 +30,17 @@ interests:
 social:
 - icon: envelope
   icon_pack: fas
-  link: almaan@kth.se  # For a direct email link, use "mailto:test@example.org".
+  link: alma.andersson@differentiable.net  # For a direct email link, use "mailto:test@example.org".
 - icon: google-scholar
   icon_pack: ai
   link: https://scholar.google.com/citations?user=t05MyGwAAAAJ&hl=en
 - icon: github
   icon_pack: fab
   link: https://github.com/almaan
+- icon: twitter
+  icon_pack: fab
+  link: https://twitter.com/aalmaander
+
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
 # - icon: cv
@@ -55,9 +60,12 @@ user_groups:
 - Visitors
 ---
 
-I'm a PhD student in the [Lundeberg Lab](https://www.spatialresearch.org/), situated at SciLifeLab (Stockholm, Sweden) focusing on computational method development. I've always
-been fascinated with how mathematical models can be used to explain much of the richness found in complex systems (biological and non-biological) but also to enhance our understanding of their
-characteristics and behaviour; a fascination that - for the better or worse - tend to influence my research quite substantially. My second big passion is running, the farther the better, whether it's
-for transportation or pure pleasure - nothing can quite compare to it.
+Hello world, I'm Alma, a computational biologist who loves to explore ways of
+describing biological systems and their processes by using models based on
+statistical inference and machine learning. My work is usually applied to
+problems relating to single cell or spatial transcriptomics data, but I'm
+excited about computational methods in general, especially generative
+probabilistic models. Science is awesome and only comes second to my big passion
+in life, running. Also, Linux is my jam.
 
 
