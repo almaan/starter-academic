@@ -1,39 +1,27 @@
 # Theme metadata
 name = "Hacker"
 
-# [light]
-#   # Primary
-#   primary = "#1565c0"
+# Is theme light or dark?
+light = false
 
-#   # Menu
-#   menu_primary = "#fff"
-#   menu_text = "#34495e"
-#   menu_text_active = "#2962ff"
-#   menu_title = "#2b2b2b"
+# Primary
+primary = "hsl(113, 100%, 50%)"
 
-#   # Home sections
-#   home_section_odd = "rgb(255, 255, 255)"
-#   home_section_even = "rgb(247, 247, 247)"
+# Menu
+menu_primary = "fff"
+menu_text = "#FCA311"
+menu_text_active = "#0EAD69"
+menu_title = "#118AB2"
 
-# [dark]
-#   # Primary
-#   primary = "#bbdefb"
+# Backgrounds
+background = "#000"
+home_section_odd = "#000"
+home_section_even = "#000"
 
-#   link = "#bbdefb"
-#   link_hover = "#bbdefb"
+dark_background = "#000"
+dark_home_section_odd = "#000"
+dark_home_section_even = "#000"
+dark_menu_primary = "hsl(113, 100%, 50%)"
 
-  # home_section_odd = "#0f0f10"
-  # home_section_even = "#0f0f10"
-[dark]
-  # Primary
-  primary = "hsl(339, 90%, 68%)"
-
-  # Menu
-  menu_primary = "rgb(20, 22, 34)"
-  menu_text = "rgba(255,255,255,0.6)"
-  menu_text_active = "rgba(255,255,255,1)"
-  menu_title = "#fff"
-
-  # Home sections
-  home_section_odd = "hsla(231, 15%, 18%, 1)"
-  home_section_even = "hsla(231, 15%, 16%, 1)"
+link = "#D90429"
+link_hover = "#118AB2"
